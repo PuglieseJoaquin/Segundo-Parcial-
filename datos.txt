@@ -1,0 +1,12 @@
+// Desarrollo de un sitio web One Page aplicando el framework front-end Bootstrap 
+
+El tema conceptual del trabajo será “Vida Saludable” 
+El disparador elegi el tema "Comida Saludable"
+
+       ->Informacion Personal
+- Nombre: Nicolas Emiliano
+- Apellido: Soto
+- Materia y Turno: Maquetado y Desarrollo Web - Turno Mañana
+- Comision y Año de Cursada: COM-DMM2AP - 2024 primer Semestre
+
+URL de entrega 000Webhost: 
